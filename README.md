@@ -1,2 +1,2 @@
 # DLND_Course
-This is the git repository for my solution to the Udacity Deep Learning Nanodegree Foundation projects
+This is the git repository for my solutions to the Udacity Deep Learning Nanodegree Foundation projects
